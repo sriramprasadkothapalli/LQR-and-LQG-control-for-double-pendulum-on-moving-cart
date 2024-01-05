@@ -14,7 +14,9 @@ This is a Matlab code collection of control experiments.
 ## Linearization of Non-Linear system around an Equilibrium Point
 
 This is a open loop system with M=1000Kg, m1=100, m2=100, L1 = 20m, L2=10m.
-- Since the original system is non liner, At first it is linearized around the equilibrium point.
+- Since the original system is non linear, At first it is linearized around the equilibrium point.
 
+  ###                                              System animation
+  ![open_loop](https://github.com/sriramprasadkothapalli/LQR-and-LQG-control-for-double-pendulum-on-moving-cart/assets/143056659/9c944dd7-fd5f-4bbd-bcf3-7b98d1e4e301)
 
 
